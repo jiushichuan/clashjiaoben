@@ -102,6 +102,7 @@ const T = [
   ["geolocation-!cn", "d", "geolocation-!cn", "🌍全球加速", 0, "g"],
   ["games-cn", "d", "category-games-cn", "🎯直连", 0, "z"],
   ["bilibili", "d", "bilibili", "📺哔哩哔哩", 0, "z"],
+  ["Emby", "d", "emny", "📽️EMNY", 0, "g"],
   ["xiaohongshu", "d", "xiaohongshu", "📕小红书", 0, "z"],
   ["Alibaba", "c", "alibaba", "⛩️阿里腾讯", 0, "z"],
   ["Tencent", "c", "tencent", "⛩️阿里腾讯", 0, "z"],
@@ -121,7 +122,7 @@ const SVC = [
   ["💳PayPal", "paypal.png"], ["🌐Google服务", "google_1.png"], ["📱Meta", "meta.png"],
   ["🐦X", "x.png"],  ["😈GitHub", "github.png"],
   ["😊微软服务", "microsoft.png", 1], ["🍎苹果服务", "apple.png", 1], 
-  ["📺哔哩哔哩", "bilibili_2.png", 1], ["📕小红书", "xiaohongshu_1.png", 1],
+  ["📺哔哩哔哩", "bilibili_2.png", 1],["📽️EMBY", "emby_1.png", 1], ["📕小红书", "xiaohongshu_1.png", 1],
 ];
 
 function main(config) {
