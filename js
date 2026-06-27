@@ -84,7 +84,6 @@ const T = [
   ["douyin-zj", "c", "bytedance", "🎷抖音", 0, "z"],
   ["OpenAI-zj", "c", "openai", "🧠OpenAI", 0, "g"],
   ["PayPal", "d", "paypal", "💳PayPal", 0, "g"],
-  ["Cryptocurrency", "d", "category-cryptocurrency", "💰加密货币", 0, "z"],
   ["games-!cn", "c", "category-games-!cn", "🎮国际游戏", 0, "g"],
   ["Telegram-zj", "c", "telegram", "💻Telegram", 0, "g"],
   ["Google-zj", "c", "google", "🌐Google服务", 0, "g"],
@@ -121,7 +120,7 @@ const SVC = [
   ["💻Telegram", "telegram.png"], ["🧠OpenAI", "chatgpt.png"],
   ["💳PayPal", "paypal.png"], ["🌐Google服务", "google_1.png"], ["📱Meta", "meta.png"],
   ["🐦X", "x.png"],  ["😈GitHub", "github.png"],
-  ["😊微软服务", "microsoft.png", 1], ["🍎苹果服务", "apple.png", 1], ["💰加密货币", "cryptocurrency.png", 1],
+  ["😊微软服务", "microsoft.png", 1], ["🍎苹果服务", "apple.png", 1], 
   ["📺哔哩哔哩", "bilibili_2.png", 1], ["📕小红书", "xiaohongshu_1.png", 1],
 ];
 
